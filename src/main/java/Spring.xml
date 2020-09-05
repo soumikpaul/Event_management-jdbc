@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="eveDAO" class="com.examplejdbc.management.events.EventDaoImpl">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	<bean id="eveObj" class="com.examplejdbc.management.events.Event">
+		<constructor-arg value="6" type="int"></constructor-arg>
+		<constructor-arg value="Bangalore" type="String"></constructor-arg> 
+		<constructor-arg value="Badminton" type="String"></constructor-arg> 
+		<constructor-arg value="Sports" type="String"></constructor-arg> 
+		<constructor-arg value="200" type="int"></constructor-arg> 
+		<constructor-arg value="500" type="int"></constructor-arg>  
+	</bean>
+
+<bean id="dataSource"
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+		<property name="url" value="jdbc:mysql://0.0.0.0:3306/MYSHOW?allowPublicKeyRetrieval=true&amp;useSSL=false" />
+		<property name="username" value="root" />
+		<property name="password" value="root@123" />
+	</bean>
+	
+	
+</beans>

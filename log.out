@@ -1,0 +1,228 @@
+2019-08-21 15:10:14 INFO  App:16 - Printing in log file
+2019-08-21 15:10:14 ERROR App:17 - Trying log.error
+2019-08-21 15:10:14 WARN  App:18 - Trying log.warn
+2019-08-21 15:12:43 INFO  App:16 - Printing in log file
+2019-08-21 15:12:43 ERROR App:17 - Trying log.error
+2019-08-21 15:12:43 WARN  App:18 - Trying log.warn
+2019-08-21 15:12:44 INFO  App:36 - Printing the entire table
+2019-08-21 15:12:44 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:12:44 INFO  App:36 - Printing the entire table
+2019-08-21 15:12:44 INFO  App:38 - 
+
+Event Name: Cricket
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:12:44 INFO  App:36 - Printing the entire table
+2019-08-21 15:12:44 INFO  App:38 - 
+
+Event Name: Titanic
+Event Type: Movie
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:12:44 INFO  App:36 - Printing the entire table
+2019-08-21 15:12:44 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:12:44 INFO  App:36 - Printing the entire table
+2019-08-21 15:12:44 INFO  App:38 - 
+
+Event Name: Badminton
+Event Type: Sports
+Price: 200
+Location: Bangalore
+Tickets Avail: 500
+2019-08-21 15:21:56 INFO  App:14 - Printing in log file
+2019-08-21 15:21:56 ERROR App:15 - Trying log.error
+2019-08-21 15:21:56 WARN  App:16 - Trying log.warn
+2019-08-21 15:21:56 INFO  App:27 - Printing by event Name: Football
+2019-08-21 15:21:56 INFO  App:29 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:27 - Printing by event Name: Football
+2019-08-21 15:21:56 INFO  App:29 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:21:56 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:21:56 INFO  App:38 - 
+
+Event Name: Cricket
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:21:56 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:21:56 INFO  App:38 - 
+
+Event Name: Badminton
+Event Type: Sports
+Price: 200
+Location: Bangalore
+Tickets Avail: 500
+2019-08-21 15:21:56 INFO  App:45 - Printing the entire table
+2019-08-21 15:21:56 INFO  App:47 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:45 - Printing the entire table
+2019-08-21 15:21:56 INFO  App:47 - 
+
+Event Name: Cricket
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:45 - Printing the entire table
+2019-08-21 15:21:56 INFO  App:47 - 
+
+Event Name: Titanic
+Event Type: Movie
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:45 - Printing the entire table
+2019-08-21 15:21:56 INFO  App:47 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:21:56 INFO  App:45 - Printing the entire table
+2019-08-21 15:21:56 INFO  App:47 - 
+
+Event Name: Badminton
+Event Type: Sports
+Price: 200
+Location: Bangalore
+Tickets Avail: 500
+2019-08-21 15:23:38 INFO  App:14 - Printing in log file
+2019-08-21 15:23:38 ERROR App:15 - Trying log.error
+2019-08-21 15:23:38 WARN  App:16 - Trying log.warn
+2019-08-21 15:23:39 INFO  App:27 - Printing by event Name: Football
+2019-08-21 15:23:39 INFO  App:29 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:27 - Printing by event Name: Football
+2019-08-21 15:23:39 INFO  App:29 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:23:39 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:23:39 INFO  App:38 - 
+
+Event Name: Cricket
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:23:39 INFO  App:38 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:36 - Finding Event By Type=Sports
+2019-08-21 15:23:39 INFO  App:38 - 
+
+Event Name: Badminton
+Event Type: Sports
+Price: 200
+Location: Bangalore
+Tickets Avail: 500
+2019-08-21 15:23:39 INFO  App:45 - Printing the entire table
+2019-08-21 15:23:39 INFO  App:47 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:45 - Printing the entire table
+2019-08-21 15:23:39 INFO  App:47 - 
+
+Event Name: Cricket
+Event Type: Sports
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:45 - Printing the entire table
+2019-08-21 15:23:39 INFO  App:47 - 
+
+Event Name: Titanic
+Event Type: Movie
+Price: 100
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:45 - Printing the entire table
+2019-08-21 15:23:39 INFO  App:47 - 
+
+Event Name: Football
+Event Type: Sports
+Price: 1000
+Location: Kolkata
+Tickets Avail: 200
+2019-08-21 15:23:39 INFO  App:45 - Printing the entire table
+2019-08-21 15:23:39 INFO  App:47 - 
+
+Event Name: Badminton
+Event Type: Sports
+Price: 200
+Location: Bangalore
+Tickets Avail: 500
